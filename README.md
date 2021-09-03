@@ -1,5 +1,5 @@
 # LinkService
- inst: uniquerichboy
+ inst: uniquerichboy </br>
  TG: @uniquerichboy
  
  <img src="https://i.imgur.com/wQy9ZWB.png">
